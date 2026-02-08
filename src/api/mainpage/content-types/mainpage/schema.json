@@ -1,0 +1,90 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mainpages",
+  "info": {
+    "singularName": "mainpage",
+    "pluralName": "mainpages",
+    "displayName": "mainpage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "fitcha_text": {
+      "type": "text"
+    },
+    "main_title": {
+      "type": "string"
+    },
+    "main_subtitle": {
+      "type": "text"
+    },
+    "achievements_title": {
+      "type": "text"
+    },
+    "achievement1_icon1": {
+      "type": "string"
+    },
+    "achievement1_icon2": {
+      "type": "string"
+    },
+    "achievement1_icon3": {
+      "type": "string"
+    },
+    "achievement1_icon4": {
+      "type": "string"
+    },
+    "achievement1_icon5": {
+      "type": "string"
+    },
+    "achievement1_icon6": {
+      "type": "string"
+    },
+    "achievement1_icon7": {
+      "type": "string"
+    },
+    "achievement1_place1": {
+      "type": "string"
+    },
+    "achievement1_place2": {
+      "type": "string"
+    },
+    "achievement1_place3": {
+      "type": "string"
+    },
+    "achievement1_place4": {
+      "type": "string"
+    },
+    "achievement1_place5": {
+      "type": "string"
+    },
+    "achievement1_place6": {
+      "type": "string"
+    },
+    "achievement1_place7": {
+      "type": "string"
+    },
+    "achievement1_name1": {
+      "type": "text"
+    },
+    "achievement1_name2": {
+      "type": "text"
+    },
+    "achievement1_name3": {
+      "type": "text"
+    },
+    "achievement1_name4": {
+      "type": "text"
+    },
+    "achievement1_name5": {
+      "type": "text"
+    },
+    "achievement1_name6": {
+      "type": "string"
+    },
+    "achievement1_name7": {
+      "type": "text"
+    }
+  }
+}
